@@ -1,3 +1,0 @@
-/**
- * exampleRoute.js
- */
