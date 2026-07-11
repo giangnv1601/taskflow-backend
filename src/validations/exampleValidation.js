@@ -1,3 +1,0 @@
-/**
- * exampleValidation.js
- */
