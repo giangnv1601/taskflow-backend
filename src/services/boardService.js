@@ -9,7 +9,7 @@ const createNew = async (reqBody) => {
       slug: slugify(reqBody.title)
     }
 
-    // Gọi tới tầng Model để xử lý lưu bản ghi newBoard vào trong Database 
+    // Gọi tới tầng Model để xử lý lưu bản ghi newBoard vào trong Database
     // ...
 
     // Làm thêm các xử lý logic khác với các Collection khác tùy dặc thù dự án...vv
