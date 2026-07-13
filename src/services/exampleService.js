@@ -1,3 +1,0 @@
-/**
- * exampleService.js
- */
